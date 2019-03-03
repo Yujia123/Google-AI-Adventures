@@ -1,6 +1,56 @@
 # Google-AI-Adventures
 
-Playlist: https://bit.ly/2ILCczD
+Playlist: https://bit.ly/2ILCczD  
+
+
+### 1. What is Machine Learning?  
+
+Cloud ML Engine → http://cloud.google.com/ml-engine/  
+
+
+### 2. The 7 Steps of Machine Learning
+
+TensorFlow Playground: http://playground.tensorflow.org  
+
+
+### 3. Plain and Simple Estimators
+
+Associated Medium post - Plain and Simple Estimators: https://goo.gl/L2YUbk  
+Code from this episode: https://goo.gl/ChcaM9
+
+
+### 5. Visualizing Your Model Using TensorBoard
+
+TensorBoard documentation: https://goo.gl/BPJLtF  
+TensorBoard Talk from TensorFlow Dev Summit 2017 (TensorBoard实践介绍 2017年TensorFlow开发大会): https://goo.gl/ustpVJ  
+
+
+### 10. Machine Learning Meets Fashion
+
+Fashion-mnist dataset: https://goo.gl/QXU1pw  
+
+
+### 13. Introduction to Kaggle Kernels
+
+Fashion MNIST Kernel: https://goo.gl/GtM6ov
+
+
+### 15. Datalab: Notebook in the Cloud
+
+Programming language correlation sample notebook: https://goo.gl/gp4ucA  
+Full GitHub Dataset BigQuery Link: https://goo.gl/JgvOu8
+
+
+### 17. TensorFlow Object Detection on iOS
+
+Code (tswift-detection): https://goo.gl/LZXbbb  
+TensorFlow Object Detection on GitHub: https://goo.gl/QYThDb  
+
+
+### 18. Visualize your Data with Facets
+Get Facets on GitHub: https://goo.gl/Xi8dTu  
+Play with Facets in the browser: https://goo.gl/fFLCEV  
+
 
 ### 19. Quick Draw: the biggest doodle dataset
 
