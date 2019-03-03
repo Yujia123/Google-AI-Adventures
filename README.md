@@ -54,4 +54,9 @@ Blog post → http://bit.ly/2oLgjnc
 Kaggle Notebook → http://bit.ly/2oIWlcH  
 
 
+### 32. Using TensorFlow Hub for more productive machine learning
+
+Blog: What is TensorFlow Hub → http://bit.ly/2JyMCO3  
+Getting Started → http://bit.ly/2uo1Csw  
+TensorFlow Hub Modules: https://tfhub.dev/  
 
