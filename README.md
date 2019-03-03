@@ -41,3 +41,17 @@ Associated blog post → http://bit.ly/2Mg70Wi
 Cloud ML Engine with scikit-learn quickstart → http://bit.ly/2Mdtszp  
 
 
+### 27. Getting Started with Keras  
+
+Associated blog post → http://bit.ly/2w87Spr  
+Fashion-MNIST with keras: https://www.kaggle.com/yufengg/fashion-mnist-with-keras/data  
+
+
+### 28. Scaling up Keras with Estimators
+
+model to estimator
+Blog post → http://bit.ly/2oLgjnc  
+Kaggle Notebook → http://bit.ly/2oIWlcH  
+
+
+
