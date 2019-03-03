@@ -28,4 +28,6 @@ Associated blog post → http://bit.ly/2L9rpfh
 
 ## 
 
+Google Summer of Code  
+scikits.learn  -  <font color=red>sci</font>Py  Toolkit
 
