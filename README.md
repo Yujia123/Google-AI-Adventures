@@ -31,8 +31,8 @@ Associated blog post → http://bit.ly/2L9rpfh
 Google Summer of Code  
 scikits.learn  -  sciPy  Toolkit
 
-scikit learn example → https://www.kaggle.com/yufengg/scikit-learn-example
-Associated blog post → http://bit.ly/2v1GJoa
+scikit learn example → https://www.kaggle.com/yufengg/scikit-learn-example  
+Associated blog post → http://bit.ly/2v1GJoa  
 
 
 ### 26. Serving Scikit-learn Models at Scale
