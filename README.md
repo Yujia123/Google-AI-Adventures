@@ -26,8 +26,18 @@ AutoML data preparation notebook → http://bit.ly/2KQO9Vm
 Associated blog post → http://bit.ly/2L9rpfh  
 
 
-## 
+## 25. Learning Scikit-Learn  
 
 Google Summer of Code  
-scikits.learn  -  <font color=red>sci</font>Py  Toolkit
+scikits.learn  -  sciPy  Toolkit
+
+scikit learn example → https://www.kaggle.com/yufengg/scikit-learn-example
+Associated blog post → http://bit.ly/2v1GJoa
+
+
+## 26. Serving Scikit-learn Models at Scale
+
+Associated blog post → http://bit.ly/2Mg70Wi  
+Cloud ML Engine with scikit-learn quickstart → http://bit.ly/2Mdtszp  
+
 
